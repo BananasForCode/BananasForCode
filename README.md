@@ -1,4 +1,4 @@
-![Hello there](https://tenor.com/2OkW.gif)
+![Hello there](https://nerdbot.com/wp-content/uploads/2020/01/1r3fn3-e1579990017466.jpg)
 
 - 👋 I'm @BananasForCode
 - 😄 Pronouns: He/Him
