@@ -3,7 +3,7 @@
 - 👋 I'm @BananasForCode
 - 😄 Pronouns: He/His/Him
 - 👀 I’m interested in developing cloud-native applications
-- 🔭 I’m currently developing Digital Solutions with @greatmindsorg
+- 🔭 I’m currently developing Digital Solutions with [Great Minds](https://greatminds.org/) [@greatmindsorg](https://github.com/greatmindsorg)
 - 🌱 I’m currently learning serverless patterns
 - 👯 I’m looking to collaborate on open source projects
 
